@@ -3,11 +3,11 @@
 from setuptools import setup, find_packages
 
 setup(
-	name = "pybrctl",
-	version = "0.1.4",
+	name = "nbycomp-pybrctl",
+	version = "0.1.4.1",
 	packages = find_packages(),
-	author = "Ido Nahshon",
-	author_email = "udragon@gmail.com",
+	author = "Ido Nahshon, Oriol Marí",
+	author_email = "udragon@gmail.com, omari@nearbycomputing.com",
 	description = "Python brctl wrapper",
 	license = "GPLv2",
 	keywords = "brctl, bridge-utils",
