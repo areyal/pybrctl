@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
 	name = "nbycomp-pybrctl",
-	version = "0.1.4.3",
+	version = "0.1.4.6",
 	packages = find_packages(),
 	author = "Ido Nahshon, Oriol Marí",
 	author_email = "udragon@gmail.com, omari@nearbycomputing.com",
