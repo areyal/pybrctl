@@ -6,6 +6,8 @@ It requires Python, Linux, and the bridge-utils package.
 
 It was written by Ido Nahshon at Jan 2015, and it was released under the GPL license.
 
+This version is compatible with Python 3.
+
 Example Usage
 =============
 This example shows how to set up a new bridge and remove it::
